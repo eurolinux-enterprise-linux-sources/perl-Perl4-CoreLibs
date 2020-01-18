@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources 
+# ELS - Enterprise Linux/EuroLinux Sources - perl-Perl4-CoreLibs
+ 
 ## Usage:
-  Checkout branch or tag.
+  Checkout branch or tag. Use `make sources` to recreate  SOURCE0 archive.
